@@ -1,0 +1,4 @@
+fastapi
+firebase-admin
+requests
+google-cloud-firestore
